@@ -48,7 +48,7 @@ Bcrypt uses a method to hash passwords to make them extremely difficult to hack
 
 - [ ] What does bcrypt do to slow down attackers?
 
-Takes the password provided, hashes it a set amount of times making it harder to crack. 
+Takes the password provided, hashes it a set amount of times making it harder to crack. 123123
 
 
 - [ ] What are the three parts of the JSON Web Token?
